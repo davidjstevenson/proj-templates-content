@@ -1,6 +1,7 @@
-## Project Templates
+## Project Name
 
-This repo contains the content used by github.com/davidjstevenson/proj-templates.git. For that content, see the branches in the namespace `proj/`.
+Project description
+
 
 
 #### License
